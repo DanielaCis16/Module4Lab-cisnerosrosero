@@ -1,0 +1,15 @@
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/bin/Debug/net8.0/Module4Lab
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/bin/Debug/net8.0/Module4Lab.deps.json
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/bin/Debug/net8.0/Module4Lab.runtimeconfig.json
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/bin/Debug/net8.0/Module4Lab.dll
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/bin/Debug/net8.0/Module4Lab.pdb
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.AssemblyInfoInputs.cache
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.AssemblyInfo.cs
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.csproj.CoreCompileInputs.cache
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.sourcelink.json
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.dll
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/refint/Module4Lab.dll
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.pdb
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/Module4Lab.genruntimeconfig.cache
+/workspaces/Module4Lab-cisnerosrosero/Module4Lab/obj/Debug/net8.0/ref/Module4Lab.dll
